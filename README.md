@@ -5,7 +5,7 @@
   🌱Actualmente estoy aprendiendo técnicas de Inteligencia Artificial aplicadas al Big Data
 
 
- 💞️ Me gusta mucho Business Intelligence y todo lo relacionado
+ 💞️ Me gusta mucho Business Intelligence y todo lo relacionado con ello
  📫 jjtorg@gmail.com (personal) / jose@iessanvicente.com (laboral)
  😄 Tengo en mente seguir aprendiendo Inteligencia Artificial aplicada al Big Data
    
