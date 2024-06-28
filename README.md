@@ -1,4 +1,4 @@
- 👋 Mi nombre es José Torregrosa
+ 👋 Mi nombre es José Jesús Torregrosa García
 
   👀 Mi interés está en las áreas de Big Data, Machine Learning, Visualización, Business Intelligence, etc.
    
@@ -6,7 +6,7 @@
 
 
  💞️ Me gusta mucho Business Intelligence y todo lo relacionado
- 📫 jjtorg@gmail.com / jose@iessanvicente.com 
+ 📫 jjtorg@gmail.com (personal) / jose@iessanvicente.com (laboral)
  😄 Tengo en mente seguir aprendiendo Inteligencia Artificial aplicada al Big Data
    
 
